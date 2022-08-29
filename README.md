@@ -3,6 +3,7 @@ Kodluyoruz HTML egitiminde yaptigim ilk web sitesi. Bu repo icerisinde bir adet 
 ![ss1](https://user-images.githubusercontent.com/111706176/187087713-0dd042d8-6358-4548-b1c8-a7d9092ac26c.png)
 ![ss2](https://user-images.githubusercontent.com/111706176/187087749-9bc12884-e864-4f05-8014-e7f0deaceb80.png)
 ![ss4](https://user-images.githubusercontent.com/111706176/187087767-3407642f-320c-4eff-bd3a-0e5b48079cc6.png)
+![ss5](https://user-images.githubusercontent.com/111706176/187188143-4f17a089-44ee-40ee-a541-0db4844630b1.png)
 
 ## Installation
 ```
